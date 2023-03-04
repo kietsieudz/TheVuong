@@ -1,2 +1,6 @@
 hello 2
+<<<<<<< HEAD
 hello 4
+=======
+hello 3
+>>>>>>> 7d3e4d5f44706ed7ad08a13bc13b06369e5e01aa
